@@ -1,0 +1,15 @@
+{
+	"name": "page-speed-cli-light",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"dotenv": "^10.0.0"
+	}
+}
